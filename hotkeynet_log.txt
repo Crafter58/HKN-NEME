@@ -1,0 +1,62 @@
+-------------------------------------------------------------------------------------
+HotkeyNet Log File
+-------------------------------------------------------------------------------------
+
+File opened at 18:22:42 on Friday, October 11, 2024
+DNS name: DESKTOP-GAOI5T9
+OS version: Microsoft  (build 9200)
+
+
+CPU:
+	Archictecture = 0; 
+	Page size = 1000; 
+	Min app address = 10000; 
+	Max app address = 7ffeffff; 
+	Mask = fff; 
+	Qty cores = 12; 
+	Type = 24a; 
+	Alloc granularity = 10000; 
+	Level = 17; 
+	Revision = 7100.
+
+
+Memory:
+	Load = 19%; 
+	Total physical = 16314 MB; 
+	Available physical = 13119 MB; 
+	Total page file = 17338 MB; 
+	Avail page file = 12937 MB; 
+	Total virtual = 2047 MB; 
+	Avail virtual = 1976 MB; 
+	Avail extended virtual = 0 MB.
+
+
+Mouse:
+	Mouse installed.
+	Buttons not swapped.
+	Speed: 1
+	Threshold (x,y): 6,10
+
+
+Adapter 0:
+
+	IP Address	192.168.1.67
+	Subnet Mask	255.255.255.0
+	Default Gateway	192.168.1.1
+
+	Adapter Name	{21E80FC8-EF2C-4FB0-9845-211E02BBE913}
+	Description	Intel(R) I211 Gigabit Network Connection
+	Physical Address	A8-5E-45-52-DA-2A
+
+	DHCP Enabled	Yes
+	DHCP Server	192.168.1.1
+	Lease Obtained	Fri Oct 11 17:32:11 2024
+
+	Have WINS	No
+
+HotkeyNet 0.1.45 build 208
+Start as server.
+This IP: 192.168.1.67
+
+C:\d\sou\cpp\macro\wininet.cpp 88: InternetOpenUrl(); system error 12007: 
+C:\d\sou\cpp\macro\wininet.cpp 91: URL = http://hotkeynet.net/auth/auth.php?PGqspOQO4jJjpsGzopd69nwcdunT20lr2FUCuI6sxWOEpwtRjKsl7eVAd9qnqaOpApoFTQ/rmnap3wM9jSeUizmoBm0UENr5htuC7AT4OYTcCSyk96Zo8uJiElA09ExoQad3TjiNXH9g+7Sp

@@ -1,0 +1,12 @@
+<Label alpha local SendWinM WoW1>
+<Label bravo local SendWinM WoW2>
+<Label charlie local SendWinM WoW3>
+<Label delta local SendWinM WoW4>
+<Label echo local SendWinM WoW5>
+<MovementHotkey 0-9, Esc, Space, Plus, Minus, F1-F12, except W, A, S, D, Q, E, Oem3>
+<SendLabel alpha, bravo, charlie, delta, echo>
+<Key %Trigger%>
+
+
+
+
